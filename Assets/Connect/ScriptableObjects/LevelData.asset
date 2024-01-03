@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d316e033fc13624e8638ed9e045cf00, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  _GridData:
+    _Row: 4
+    _Col: 4
+  _CirclePositions:
+  - _Point: {fileID: 8425219570520100081, guid: b5645be375b022b40acc8126ce3b840a, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 7b1235a0aa7d3374ea5fe0cb2fe7cee5, type: 3}
+    _CellOnRow: 0
+    _CellOnCol: 3
+  - _Point: {fileID: 8425219570520100081, guid: b5645be375b022b40acc8126ce3b840a, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 7b1235a0aa7d3374ea5fe0cb2fe7cee5, type: 3}
+    _CellOnRow: 1
+    _CellOnCol: 0
+  - _Point: {fileID: 8425219570520100081, guid: 28f978d80ad7a734eb57faede6012b2f, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 64802add9c2b3e14fb4e4ad886cb3e54, type: 3}
+    _CellOnRow: 1
+    _CellOnCol: 1
+  - _Point: {fileID: 8425219570520100081, guid: 5b28b2cc69af0b044b8e47933c7050c0, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: b3f11c8e4798f2247a7fb2b29dbc651a, type: 3}
+    _CellOnRow: 2
+    _CellOnCol: 2
+  - _Point: {fileID: 8425219570520100081, guid: 28f978d80ad7a734eb57faede6012b2f, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 64802add9c2b3e14fb4e4ad886cb3e54, type: 3}
+    _CellOnRow: 2
+    _CellOnCol: 3
+  - _Point: {fileID: 8425219570520100081, guid: 5b28b2cc69af0b044b8e47933c7050c0, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: b3f11c8e4798f2247a7fb2b29dbc651a, type: 3}
+    _CellOnRow: 3
+    _CellOnCol: 0
+  - _Point: {fileID: 8425219570520100081, guid: 4102d1457735ecb41a3127025f55a384, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 26cdde30d8af11449968adbf4e855260, type: 3}
+    _CellOnRow: 3
+    _CellOnCol: 1
+  - _Point: {fileID: 8425219570520100081, guid: 4102d1457735ecb41a3127025f55a384, type: 3}
+    m_Anim: {fileID: 8425219570520100081, guid: 26cdde30d8af11449968adbf4e855260, type: 3}
+    _CellOnRow: 3
+    _CellOnCol: 3
